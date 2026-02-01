@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swingmonkey
-- 👀 I’m interested in Java、MySQL、algorithm
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java、MySQL、algorithm,AI 
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
